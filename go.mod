@@ -1,3 +1,5 @@
-module github.com/gorilla/sessions
+module github.com/keep94/sessions
 
-require github.com/gorilla/securecookie v1.1.1
+go 1.20
+
+require github.com/keep94/securecookie v0.1.1
